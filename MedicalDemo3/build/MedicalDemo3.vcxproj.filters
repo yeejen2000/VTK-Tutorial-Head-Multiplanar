@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\Yee Jen\Desktop\SEM 6\DV\VTK\VTK-Project\MedicalDemo3\MedicalDemo3.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\Yee Jen\Desktop\SEM 6\DV\VTK\VTK-Project\MedicalDemo3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8945163E-C645-33A7-9B52-282FAD8E686E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
